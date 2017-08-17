@@ -1,4 +1,4 @@
 # persephona
 A (test) wrapping of Stanford NLP tools.
 
-Built with maven. A short test with English, French and German samples.
+The project is built with maven. A simple test with English, French and German samples is included.
